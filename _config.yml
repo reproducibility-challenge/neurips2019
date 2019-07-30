@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: ML Retrospectives
-email: 
+name: Reproducibility Challenge
+email: reproducibility.challenge@gmail.com
 description: > # this means to ignore newlines until "url:"
-  A Venue for Self-Reflection in ML Research
+  Annual Machine Learning Reproducibility Challenge
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,7 +17,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: ml-retrospectives
+github_username: reproducibility-org
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -33,13 +33,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Accepted Retrospectives
-blog_description: These are retrospectives which have been reviewed and accepted.
+blog_name: Accepted Papers
+blog_description: Accepted Reproducibility Challenge Papers will appear here.
 
 # Pagination
 paginate: 4
-permalink: /accepted_retrospectives/:year/:title/
-paginate_path: /accepted_retrospectives/page:num/
+permalink: /accepted_papers/:year/:title/
+paginate_path: /accepted_papers/page:num/
 
 text:
   pagination:

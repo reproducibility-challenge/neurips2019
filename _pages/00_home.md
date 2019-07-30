@@ -2,19 +2,17 @@
 layout: home
 permalink: /
 title: NeurIPS 2019
-desc_title: Retrospectives Workshop @ NeurIPS 2019
-description: A venue for self-reflection in machine learning research
+desc_title: Reproducibility Challenge @ NeurIPS 2019
+description: The Annual Machine Learning Reproducibility Challenge
+news: true
+social: true
 ---
 
 
-The NeurIPS Retrospectives Workshop is different from a usual workshop. While most workshops promote discussion of work in a specific subfield, this workshop aims to promote a specific kind of scholarship: reflecting on your own previous work. 
+Welcome to the 3rd edition of Reproducibility Challenge @ NeurIPS 2019! One of the challenges in machine learning research is to ensure that published results are reliable and reproducible. In support of this, the goal of this challenge is to investigate reproducibility of empirical results submitted to the [2019 Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2019/). We are choosing NeurIPS for this challenge because the timing is right for course-based participants (see below), and this time we focus on **accepted papers** which will be automatically made available publicly on [Open Review](https://openreview.net/) on acceptance notification.
 
-There are two tracks for submissions to the workshop (see: [call for papers](https://ml-retrospectives.github.io/neurips2019/cfp/)):
+In our last iteration, we ran the challenge on [ICLR submitted papers](https://reproducibility-challenge.github.io/iclr_2019/). Check out the accepted reports in our [journal publication at ReScience](https://rescience.github.io/read/#volume-5-2019).
 
-1. **Retrospectives track.** *Retrospectives* are a new form of publication where authors write a critical analysis of one of their own past papers. This can include new perspectives on the work since publication, a discussion of the strengths and limitations of the work, or acknowledgement of errors in the original manuscript. The goal is to be as open and honest about your past work as possible.   
-2. **Meta-analysis track.** We also encourage the submission of *meta-analyses* of a small set of related papers (not necessarily your own). This can include observations of recent trends, a discussion of changes to the ‘common knowledge’ in the field, or something else. The goal is to provide insights or new perspectives around a unified theme.  
+### Contact
 
-Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community, including neuroscience and statistics.  The main goal of the workshop is to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly. 
-
-We are accompanying the workshop with the open-source release of a retrospectives platform on GitHub called [ML Retrospectives](https://ml-retrospectives.github.io/), which will host retrospective submissions going forward after NeurIPS 2019. 
-
+For any challenge specific queries, registration of your graduate course and sponsorship proposals, contact [Koustuv Sinha](mailto:koustuv.sinha@mail.mcgill.ca) or [Reproducibility Challenge Organizers](mailto:reproducibility.challenge@gmail.com).
