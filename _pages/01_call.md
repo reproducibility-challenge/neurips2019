@@ -18,4 +18,4 @@ Participants should produce a Reproducibility report, describing the target ques
 
 The result of the reproducibility study should NOT be a simple Pass / Fail outcome. The goal should be to identify which parts of the contribution can be reproduced, and at what cost in terms of resources (computation, time, people, development effort, communication with the authors).
 
-Participants should expect to engage in dialogue with NeurIPS authors through the OpenReview site. Accepted Reproducibility Report participants will get a chance to directly interact with the authors during their oral (5-10 mins questions) or posters.
+Participants should expect to engage in dialogue with NeurIPS authors through the OpenReview site. We will announce shortly where the accepted Reproducibility Reports will be published.
