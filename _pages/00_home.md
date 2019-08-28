@@ -22,7 +22,7 @@ In our last iteration, we ran the challenge on [ICLR submitted papers](https://r
 
 ### Participating Institutions
 
-_If you want your course to be listed here, please drop a mail to [Koustuv Sinha](mailto:koustuv.sinha@mail.mcgill.ca)_
+_If you want your course to be listed here, please drop a mail to us._
 
 ### Sponsors
 
