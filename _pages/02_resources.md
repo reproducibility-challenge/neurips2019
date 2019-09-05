@@ -28,3 +28,4 @@ This page lists some useful resources which you can use for the challenge.
 - [Check this list of related work](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf)
 - [ICLR 2019 Reproducibility Challenge Accepted Papers at ReScience Journal](https://rescience.github.io/read/#volume-5-2019)
 - [ICLR 2019 Reproducibility Challenge Submissions](https://github.com/reproducibility-challenge/iclr_2019/pulls)
+- Joelle Pineau's [Keynote talk on Reproducibility](https://www.facebook.com/nipsfoundation/videos/2120856364798049/) at NeurIPS 2018

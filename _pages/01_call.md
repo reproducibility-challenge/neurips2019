@@ -4,7 +4,7 @@ permalink: /task/
 title: Task Description
 ---
 
-You should select a paper from the [2019 NeurIPS](https://nips.cc/Conferences/2019/) accepted papers (which will be made available to OpenReview shortly after final notification), and aim to replicate the experiments described in the paper. The goal is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why).
+You should select a paper from the [2019 NeurIPS](https://nips.cc/Conferences/2019/) [accepted papers](https://neurips.cc/Conferences/2019/AcceptedPapersInitial), and aim to replicate the experiments described in the paper. The objective is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why).
 
 **Essentially, think of your role as an inspector verifying the validity of the experimental results and conclusions of the paper. In some instances, your role will also extend to helping the authors improve the quality of their work and paper.**
 
@@ -24,8 +24,7 @@ For NeurIPS Reproducibility Challenge, we have three tracks for submission to th
 
 ## Proposed outcomes
 
-Participants should produce a Reproducibility report, describing the target questions, experimental methodology, implementation details, analysis and discussion of findings, conclusions on reproducibility of the paper. This report should be posted as a contributed review on OpenReview.
-
-The result of the reproducibility study should NOT be a simple Pass / Fail outcome. The goal should be to identify which parts of the contribution can be reproduced, and at what cost in terms of resources (computation, time, people, development effort, communication with the authors).
-
-Participants should expect to engage in dialogue with NeurIPS authors through the OpenReview site. We will announce shortly where the accepted Reproducibility Reports will be published.
+- The goal of this challenge is **not** to criticize papers or the hard work of our fellow researchers. [Science is not a competitive sport](https://www.facebook.com/nipsfoundation/videos/2120856364798049/). Thus, the main objective of this challenge is to provide a fun learning exercise for newcomers in the Machine Learning field, while contributing to the research by strengthening the quality of the original paper.
+- Participants should produce a Reproducibility report, describing the target questions, experimental methodology, implementation details, analysis and discussion of findings, conclusions on reproducibility of the paper. This report should be posted as a contributed review on OpenReview.
+- The result of the reproducibility study should NOT be a simple Pass / Fail outcome. The goal should be to identify which parts of the contribution can be reproduced, and at what cost in terms of resources (computation, time, people, development effort, communication with the authors).
+- Participants should expect to engage in dialogue with NeurIPS authors through the OpenReview site. We will announce shortly where the accepted Reproducibility Reports will be published.  
