@@ -4,7 +4,7 @@ permalink: /registration/
 title: Registration
 ---
 
-**Registration and project submissions will be handled by our [OpenReview Portal](https://openreview.net/group?id=reproducibility-challenge.github.io/Reproducibility_Challenge/NeurIPS/2019).**
+**Registration and project submissions will be handled by our [OpenReview Portal](https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge).**
 
 ### Claiming a paper
 
