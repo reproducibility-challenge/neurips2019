@@ -23,6 +23,8 @@ In our last iteration, we ran the challenge on [ICLR submitted papers](https://r
 
 ### Participating Institutions
 
+- [CSCI2951-F: Learning and Sequential Decision Making](http://cs.brown.edu/courses/cs2951f/), [Brown University](http://cs.brown.edu/)
+
 _If you want your course to be listed here, please drop a mail to us._
 
 ### Sponsors
