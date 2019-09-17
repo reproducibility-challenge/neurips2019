@@ -29,7 +29,7 @@ _If you want your course to be listed here, please drop a mail to us._
 
 ### Sponsors
 
-- **Cloud Platform Sponsor** : [CodeOcean](https://codeocean.com/)
+- **Cloud Platform Sponsor** : [Code Ocean](https://codeocean.com/)
 
 ### Contact
 
