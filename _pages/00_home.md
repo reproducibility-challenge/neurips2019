@@ -24,6 +24,7 @@ In our last iteration, we ran the challenge on [ICLR submitted papers](https://r
 ### Participating Institutions
 
 - [CSCI2951-F: Learning and Sequential Decision Making](http://cs.brown.edu/courses/cs2951f/), [Brown University](http://cs.brown.edu/)
+- [Deep Learning, Advanced (DD2412)](https://www.kth.se/student/kurser/kurs/DD2412?l=en), [Division of Robotoics, Perception, and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439), [KTH (Royal Institute of Technology)](http://www.kth.se)
 
 _If you want your course to be listed here, please drop a mail to us._
 
