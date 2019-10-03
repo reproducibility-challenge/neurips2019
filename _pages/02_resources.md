@@ -14,7 +14,7 @@ This page lists some useful resources which you can use for the challenge.
 
 ### Compute Resources
 
-- [Code Ocean](https://codeocean.com/) provides 10hrs/month of GPU accelerated platform free to academics. [Code Ocean](https://codeocean.com/) also is our Cloud Platform Sponsor, so they will be providing limited teams more compute resources than the free tier. Check [Registration](/neurips2019/registration/) for more details.
+- [Code Ocean](https://codeocean.com/) provides 10hrs/month of GPU accelerated platform free to academics. [Code Ocean](https://codeocean.com/) also is our Cloud Platform Sponsor, so they will be providing limited teams more compute resources than the free tier. Check [Registration](/neurips2019/registration/) for more details. Also check [Code Ocean Forum](https://codeocean.discoursehosting.net/c/neurips2019) for any support related to the platform.
 - Instructors can apply for [Google Cloud credits](https://cloud.google.com/edu/) for their students. Each student will be given a small number of credits to start (approx. $50).
 - By default, Google Cloud accounts don't come with a GPU quota, but you can find instructions on how to request GPUs, including links on how to check and increase quotas, [at this link](https://cloud.google.com/compute/docs/gpus/add-gpus).
 - If necessary, instructors can ask for much more computing credits (up to $1000 per student) by contacting: [CloudEDUGrants@google.com](mailto:CloudEDUGrants@google.com).
