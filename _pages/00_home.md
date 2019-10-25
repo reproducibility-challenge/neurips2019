@@ -11,6 +11,8 @@ social: true
 
 Welcome to the 3rd edition of Reproducibility Challenge @ [NeurIPS 2019](https://nips.cc/Conferences/2019/)! One of the challenges in machine learning research is to ensure that published results are reliable and reproducible. In support of this, the objective of this challenge is to investigate reproducibility of empirical results submitted to the [2019 Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2019/). We are choosing NeurIPS for this challenge because the timing is right for course-based participants (see below), and this time we focus on [**accepted papers**](https://neurips.cc/Conferences/2019/AcceptedPapersInitial) which will be made available publicly on [Open Review](https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge) on acceptance notification.
 
+[Read our blog post](https://medium.com/@NeurIPSConf/behind-the-program-for-reproducibility-at-neurips-2019-8a020e57bfd9) explaining the thought process behind the NeurIPS Reproducibility Challenge.
+
 In our last iteration, we ran the challenge on [ICLR submitted papers](https://reproducibility-challenge.github.io/iclr_2019/). Check out the accepted reports in our [journal publication at ReScience](https://rescience.github.io/read/#volume-5-2019).
 
 ### How to participate
