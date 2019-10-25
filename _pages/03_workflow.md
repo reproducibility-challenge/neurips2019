@@ -19,7 +19,7 @@ Expect to complete the following information when you submit your claim:
 - University / Institution (public)
 - Track : See [Task Description](/neurips2019/task/)
 - Reproducibility Plan: We expect you to write a short proposal (500 words max) of your reproducibility plan of action for the selected paper. In this proposal, write concisely how you would approach the problem. This proposal essentially helps to narrow down your deliverables regarding the challenge. This proposal will not be made public, neither it will be used in our reviews.
-- Application for Compute: If you are a student then you will be eligible for free [CodeOcean](https://codeocean.com/) GPU accelerated development host. [CodeOcean](https://codeocean.com/) has provided us a limited amount of free compute, so we will be granting it to teams on the basis of the Reproducibility Plan. Otherwise, you can ask your instructor to apply for [Google Cloud Credits](https://cloud.google.com/edu/) citing our challenge. Check [Resources]() for more information.
+- Application for Compute: If you are a student then you will be eligible for free [CodeOcean](https://codeocean.com/) GPU accelerated development host. [CodeOcean](https://codeocean.com/) has provided us a limited amount of free compute in addition to what is already available in the [free tier for academic users](https://codeocean.com/pricing). We will be granting the additional compute sources to teams on the basis of the Reproducibility Plan. Otherwise, you can ask your instructor to apply for [Google Cloud Credits](https://cloud.google.com/edu/) citing our challenge. Check [Resources](/neurips2019/resources/) for more information.
 
 ### Submitting your project
 
