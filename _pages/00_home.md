@@ -28,7 +28,7 @@ In our last iteration, we ran the challenge on [ICLR submitted papers](https://r
 - [CSCI2951-F: Learning and Sequential Decision Making](http://cs.brown.edu/courses/cs2951f/), [Brown University](http://cs.brown.edu/)
 - [Deep Learning, Advanced (DD2412)](https://www.kth.se/student/kurser/kurs/DD2412?l=en), [Division of Robotoics, Perception, and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439), [KTH (Royal Institute of Technology)](http://www.kth.se)
 - [COMP 551: Applied Machine Learning](https://cs.mcgill.ca/~wlh/comp551/), Fall 2019, [McGill University](https://cs.mcgill.ca/)
-
+- [IFT 6269 Probabilistic Graphical Models](http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A19/) , Fall 2019, [Université de Montréal](https://diro.umontreal.ca/english/home/)
 
 _If you want your course to be listed here, please drop a mail to us._
 
