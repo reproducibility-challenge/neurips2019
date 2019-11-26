@@ -23,7 +23,7 @@ Expect to complete the following information when you submit your claim:
 
 ### Submitting your project
 
-We will use the same OpenReview portal to submit your Reproducibility projects. Click on "Add Reproducibility Challenge NeurIPS 2019 Report" to submit your work. In the field of "NeurIPS paper ID", paste the paper ID of the forum for the paper. (For example, if the link is `https://openreview.net/forum?id=B1V7ccl2Br`, then the corresponding paper ID is `B1V7ccl2Br`). Select the [appropriate track]((/neurips2019/task/)) you want to submit your report on.
+We will use the same OpenReview portal to submit your Reproducibility projects. Click on "Add Reproducibility Challenge NeurIPS 2019 Report" to submit your work. In the field of "NeurIPS paper ID", paste the paper ID of the forum for the paper. (For example, if the link is `https://openreview.net/forum?id=B1V7ccl2Br`, then the corresponding paper ID is `B1V7ccl2Br`). Select the [appropriate track](/neurips2019/task/) you want to submit your report on.
 
 Please check Important Dates for the deadline for submission of your report. Your report should be of maximum 8 pages excluding references, in [NeurIPS style format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles). You can also submit supplementary materials. **Code submission is mandatory** along with your supplementary materials.
 
