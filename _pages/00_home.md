@@ -15,6 +15,9 @@ Welcome to the 3rd edition of Reproducibility Challenge @ [NeurIPS 2019](https:/
 
 In our last iteration, we ran the challenge on [ICLR submitted papers](https://reproducibility-challenge.github.io/iclr_2019/). Check out the accepted reports in our [journal publication at ReScience](https://rescience.github.io/read/#volume-5-2019).
 
+- **News** : After extensive review process, [10 reports are selected for publication in ReScience Journal](https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge#accept). All reports (and their reviews) to be hosted indefinitely on OpenReview.
+- **News** : We will be back for NeurIPS 2020! [Read our roadmap here](https://medium.com/@NeurIPSConf/designing-the-reproducibility-program-for-neurips-2020-7fcccaa5c6ad).
+
 ### How to participate
 
 - Check the [Registration](/neurips2019/registration/) page for details on claiming a [NeurIPS accepted paper](https://neurips.cc/Conferences/2019/AcceptedPapersInitial) from our [OpenReview Portal](https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge), and then start working on it.
